@@ -1,0 +1,1 @@
+update Customers set ContactName = 'aaaa' where CustomerID = 'ALFKI'
